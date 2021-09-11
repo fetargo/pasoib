@@ -1,0 +1,12 @@
+pyuic5 /home/fetargo/Kursach/Modules/design.ui -o /home/fetargo/Kursach/Modules/design.py
+
+/home/fetargo/Kursach/Modules/
+
+
+pyuic5 /home/fetargo/Kursach/Modules/design_auth.ui -o /home/fetargo/Kursach/Modules/design_auth.py
+
+pyuic5 /home/fetargo/Kursach/Modules/security.ui -o /home/fetargo/Kursach/Modules/security.py
+
+access settings + ok
+check user
+file open

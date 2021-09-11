@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Yashin Security
+
+GenericName=Access Manager
+Icon=assistant-qt5
+Terminal=true
+Type=Application
+Categories=
+Exec=/home/fetargo/Kursach/Modules/main.py
+X-KDE-StartupNotify=true
